@@ -1,0 +1,9 @@
+//LETRA\\
+existen diferentes tipos de funtes externas solo se importan: 
+se agarra el link se pega en nuestro index
+y luego se pone en el css
+
+1. google fonts 
+
+
+//GOOGLE MAPS\\
